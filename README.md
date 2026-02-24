@@ -1,56 +1,83 @@
-# insurance-compliance-framework
-## Multi-State Insurance Compliance & QA Framework
-
+# Sales Performance Operating System
 ## Executive Overview
 
-Designed and implemented a centralized compliance and quality assurance framework for a regulated, fully remote insurance organization supporting 500+ distributed operators. The objective was to reduce regulatory exposure, standardize execution quality, and install durable governance without introducing bureaucracy.
+Designed and implemented a structured sales performance operating system for a fully remote, high-volume inbound organization. The objective was to align revenue outcomes with measurable behaviors, reduce execution drift, and protect lead economics through real-time correction frameworks.
 
-## Regulatory Environment
+This system integrates KPI architecture with behavioral retraining protocols to create predictable performance without micromanagement.
 
-- Multi-state insurance operations
-- Call-based sales subject to disclosure standards
-- Replacement regulations and documentation requirements
-- TCPA considerations
-- Licensing and carrier oversight
-- Audit exposure risk
+## 1. KPI Architecture & Revenue Controls
 
-## Core Compliance Architecture
+Established a structured dialer KPI model governing quoting behavior, application progression, close rate performance, and efficiency utilization.
 
-The framework was structured around five control layers:
-- Documentation Standards
-- Script Governance & Disclosure Controls
-- QA Scoring & Call Review Methodology
-- Escalation & Corrective Action Protocol
-- Retraining & Performance Remediation Triggers
+## Core Control Metrics
 
-## Quality Assurance Model
+- Quote Rate (Target: 70%+ on engaged calls)
+- Application Rate (Target: 40%+ of quoted calls)
+- Close Rate (Target: 10–15%)
+- Talk Time per Hour (Target: 35–45+ minutes)
+- Average Call Duration (Target: ~7 minutes)
 
-- Structured call scoring rubric
-- Compliance-weighted scoring criteria
-- Failure thresholds triggering retraining
-- Repeat violation escalation ladder
-- Manager accountability integration
+These metrics functioned as operational control levers rather than passive scorekeeping.
 
-## Execution Controls
+## Architectural Intent
 
-- Standardized onboarding compliance checkpoints
-- Pre-production gating requirements
-- Ongoing audit sampling methodology
-- Incident documentation process
-- Cross-functional reporting visibility
+- Detect breakdowns early in the call lifecycle
+- Isolate where conversion friction occurs
+- Protect cost-per-acquisition in inbound environments
+- Tie behavior directly to revenue output
+- Standardize coaching language across managers
 
-## Governance Philosophy
+## Artifact
 
-- The objective was not enforcement through volume, but prevention through clarity. Systems were designed to:
-- Reduce ambiguity in regulated conversations
-- Protect both operator and organization
-- Translate regulatory requirements into executable standards
-- Maintain performance velocity without increasing risk exposure
+### [Key Performance Indicators (KPIs) (3).pdf](https://github.com/user-attachments/files/25531232/Key.Performance.Indicators.KPIs.3.pdf)
 
-## Outcomes
 
-- Reduced compliance drift at scale
-- Increased audit defensibility
-- Standardized QA feedback loops
-- Improved manager accountability
+## 2. Daily Growth & Behavioral Correction Framework
 
+Developed a structured self-diagnostic system enabling agents to identify and correct performance breakdowns in real time.
+
+The framework introduced defined intervention triggers:
+
+- 7+ short calls → opener / rapport issue
+- Engaged calls without quoting → transition failure
+- Multiple quotes without applications → value or trust breakdown
+
+Each trigger required:
+
+1. Immediate pause from live selling
+2. Structured recording review
+3. Guided self-assessment
+4. Targeted rehearsal and tone correction
+5. Re-entry only after correction
+
+## System Design Principles
+
+- Accountability without supervision dependency
+- Correction speed as the primary mastery metric
+- One-call-close discipline in inbound environments
+- Emotional connection prioritized over script rigidity
+- Lead protection as an economic responsibility
+
+## Artifact
+
+### [SUGGESTED DAILY GROWTH (2).pdf](https://github.com/user-attachments/files/25531235/SUGGESTED.DAILY.GROWTH.2.pdf)
+
+## Cross-Functional Impact
+
+This operating system required coordination across:
+- Sales Leadership
+- QA & Call Review
+- Training & Enablement
+- Revenue Operations
+- Incentive & Compensation Design
+
+The result was a repeatable structure enabling distributed operators to self-regulate performance while maintaining alignment with organizational revenue goals.
+
+## Capabilities Demonstrated
+
+- Revenue Performance Architecture
+- Behavioral KPI Design
+- Sales Conversion Mechanics
+- Distributed Team Governance
+- Coaching Systemization
+- Lead Economics Protection
